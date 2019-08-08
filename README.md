@@ -24,6 +24,6 @@ Then to run the server, execute the following command:
 npm start
 ```
 
-## Contributers
-Valeriy Djulai
+## Contributors
+Valeriy Djulai  
 Max Newman
