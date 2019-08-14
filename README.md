@@ -9,6 +9,14 @@ If you want to sync the pull requests from the upstream repository, follow the f
 ```
 git remote add upstream https://github.com/Ezraay/vce-exchange.git
 ```
+Then to fetch:
+```
+git fetch upstream
+```
+And to pull:
+```
+git pull upstream master
+```
 
 ## Setup
 The project has the following dependencies:
