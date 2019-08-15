@@ -60,5 +60,8 @@ typings/
 # next.js build output
 .next
 
-.github
+.github/
 .vscode
+README.md
+LICENSE
+CODE_OF_CONDUCT.md
