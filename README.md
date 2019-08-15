@@ -36,3 +36,4 @@ npm start
 Valeriy Djulai  
 Max Newman  
 Damian Lazarevski  
+Sathur Sugumaran  
